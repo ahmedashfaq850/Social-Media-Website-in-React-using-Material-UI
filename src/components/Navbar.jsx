@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <Box>
-      <AppBar position="sticky">
+      <AppBar position="fixed">
         <StyledToolBar>
           <Typography
             varient="h6"
